@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{background-image:url(images/inicio.png);
+background-repeat:no-repeat;
+background-size: cover;
+
+}
+#contenedor {
+   margin: auto;
+   width: 900px;
+   height: 950px;}
+
+
+   h1{
+
+   color: rgba(7, 7, 77, 0.74);
+   text-align:center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 300%;
+
+   }
+
